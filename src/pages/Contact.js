@@ -6,10 +6,10 @@ export default function Contact() {
       <div>
         <h2>Feel Free to Contact Me at:</h2>
         <h3>
-          <a href="">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/salina-malek/">LinkedIn</a>
         </h3>
         <h3>
-          <a href="">GitHub</a>
+          <a href="https://github.com/Salinamalek">GitHub</a>
         </h3>
         <h3>
           <a href="mailto:salinamalek@pursuit.org">Email</a>
