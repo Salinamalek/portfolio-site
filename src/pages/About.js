@@ -7,7 +7,7 @@ export default function About() {
     <div className="about">
       <div>
         <h1>Salina Malek</h1>
-        <img className="imgMe" src={me} />
+        <img className="imgMe" src={me} alt="imageOfMe" />
         <div className="aboutText">
           <h3>
             I am a Full Stack Web Development Student at Pursuit, a

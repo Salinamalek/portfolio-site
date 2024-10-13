@@ -11,7 +11,11 @@ export default function Projects() {
         <div>
           <img className="projectImgs" src={daydream} alt="daydreamapp" />
           <br />
-          <a href="https://daydream-bucketlist-sm.netlify.app/" target="_blank">
+          <a
+            href="https://daydream-bucketlist-sm.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Day Dream Bucket List App
           </a>
         </div>
