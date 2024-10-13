@@ -1,4 +1,10 @@
 .codingBg {
-  height: 475px;
+  height: 300px;
   border-radius: 10px;
+}
+
+li {
+  text-align: left;
+  list-style: none;
+  /* margin-bottom: 10px; */
 }
