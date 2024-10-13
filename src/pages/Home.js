@@ -8,7 +8,7 @@ export default function Home() {
       <div className="heading">
         <h1>Salina Malek</h1>
         <h2>Welcome to my Portfolio Site!</h2>
-        <img className="codingBg" src={codingbg} />
+        <img className="codingBg" src={codingbg} alt="coding-img" />
       </div>
       <div>
         <h2>Technical Skills</h2>

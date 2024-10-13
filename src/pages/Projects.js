@@ -9,16 +9,20 @@ export default function Projects() {
       <h1>Projects</h1>
       <div className="projectLinks">
         <div>
-          <img className="projectImgs" src={daydream} />
+          <img className="projectImgs" src={daydream} alt="daydreamapp" />
           <br />
           <a href="https://daydream-bucketlist-sm.netlify.app/" target="_blank">
             Day Dream Bucket List App
           </a>
         </div>
         <div>
-          <img className="projectImgs" src={init} />
+          <img className="projectImgs" src={init} alt="initapp" />
           <br />
-          <a href="https://init-jobs.netlify.app/" target="_blank">
+          <a
+            href="https://init-jobs.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             inIT Job Search App
           </a>
         </div>
